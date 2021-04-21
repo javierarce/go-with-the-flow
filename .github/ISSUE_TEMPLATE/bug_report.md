@@ -8,7 +8,7 @@ assignees: javierarce
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+A clear and concise description of what the bug is. Extra points if you share an example Figma file with me.
 
 **To Reproduce**
 Steps to reproduce the behavior:
